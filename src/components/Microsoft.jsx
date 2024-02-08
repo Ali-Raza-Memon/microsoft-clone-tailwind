@@ -16,7 +16,7 @@ const Microsoft = () => {
 
         <div className="logo text-center flex md:order-1">
             <div>Microsoft</div>
-            <div className="features absolute w-fit md:w-auto md:flex md:bg-white  bg-gray-200 inset-0 md:mx-4  md:space-x-2 -translate-x-96 md:translate-x-0">
+            <div className="features absolute w-fit md:static md:w-auto md:flex md:bg-white  bg-gray-200 inset-0 md:mx-4  md:space-x-2 -translate-x-96 md:translate-x-0">
                 <div className="fitem">Microsoft 365</div>
                 <div className="fitem">Office</div>
                 <div className="fitem">Windows</div>
